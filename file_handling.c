@@ -1,4 +1,4 @@
-[10:03 AM, 6/3/2021] Harsh: #	include <stdio.h>
+#	include <stdio.h>
 
 #	include <string.h>
 
